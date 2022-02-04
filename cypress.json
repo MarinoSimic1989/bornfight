@@ -1,0 +1,4 @@
+{
+    "baseUrl": "https://qa.bornfight.dev/",
+    "retries": 1
+}

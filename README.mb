@@ -1,0 +1,7 @@
+Steps to open Cypress test runner:
+-> Open terminal
+-> Position yourself to root folder
+-> Execute npm install
+-> Execute the following command: npx cypress open
+-> After the test runner opens click on desired test you want to run (in this case only bornfight.js is available)
+-> Test Execute
